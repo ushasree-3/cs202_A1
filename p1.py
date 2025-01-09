@@ -1,6 +1,10 @@
+"""
+This module checks whether a number is an Armstrong number or not.
+An Armstrong number is a number that is equal to the sum of its digits
+each raised to the power of the number of digits in the number.
+"""
+
 # Python program to determine whether the number is Armstrong number or not.
-# This program checks if a given number is an Armstrong number by calculating the sum of 
-# its digits raised to the power of the number of digits.
 
 # Function to calculate x raised to the power y
 def power(x, y):
