@@ -1,0 +1,1 @@
+"This project is part of the CS202 Software Tools and Techniques for CSE lab. It demonstrates basic Git operations such as repository initialization, adding and committing files, and working with remote repositories on GitHub. Additionally, it includes a GitHub Actions workflow to automate Python code linting using Pylint." 
